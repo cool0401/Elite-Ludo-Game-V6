@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "259344706727",
+    "project_id": "fir-elite-ludo-app",
+    "storage_bucket": "fir-elite-ludo-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259344706727:android:c50a64cfdf3a571dceff82",
+        "android_client_info": {
+          "package_name": "com.eliteludo.webplustech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259344706727-iefbs2ckrhlf9f14lapkfqdst8fmkblt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZphGQLy5FQlG9cie6Z_8ExiJrzzq6TdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259344706727-iefbs2ckrhlf9f14lapkfqdst8fmkblt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
